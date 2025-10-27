@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e31ad638-78b1-423b-a3ac-ba42a1c94861" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Calculo/Traballo_Quiroga_Linares_Adrián_solución_propia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculo/Traballo_Quiroga_Linares_Adrián_solución_propia.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apuntes Cocalc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Apuntes Cocalc.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen 2024.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Examen 2024.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examenes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pruebas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pruebas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/dolar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/dolar.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/dolarstock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/dolarstock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/euro.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/euro.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/eurostock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/eurostock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/franco.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/franco.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/francostock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/francostock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/libras.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/libras.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/librastock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/librastock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/monedas.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/monedas.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/monedas.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/monedas.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/teststock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/teststock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/vectordinamico.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/vectordinamico.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/vectordinamico.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algoritmo Voraz/vectordinamico.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos Recursivos y de Busqueda/busqueda.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos Recursivos y de Busqueda/busqueda.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos Recursivos y de Busqueda/recursivos.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos Recursivos y de Busqueda/recursivos.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/Burbuja.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/Burbuja.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/Quicksort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/Quicksort.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/Seleccion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/Seleccion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/burbuja.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/burbuja.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/burbuja.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/burbuja.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/quicksort.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/quicksort.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/quicksort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/quicksort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/seleccion.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/seleccion.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/seleccion.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/seleccion.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/vectordinamico.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/vectordinamico.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/vectordinamico.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Algortimos de Ordenación/vectordinamico.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/cola.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/cola.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/cola.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/cola.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/impresora.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/impresora.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/lista.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/lista.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/lista.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/lista.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Gestión de Impresoras/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E3/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E3/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E3/gcd.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E3/gcd.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E3/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E3/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E3/operaciones.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E3/operaciones.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E3/sqrt.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E3/sqrt.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E5/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E5/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E5/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E5/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/asignarElemento.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/asignarElemento.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/crearMatriz.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/crearMatriz.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/destruirMatriz.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/destruirMatriz.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/imprimirMatriz.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/imprimirMatriz.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/include/matriz.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/include/matriz.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/obtenerElemento.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/obtenerElemento.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/producto.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/producto.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/suma.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Introducción a los TADs/P0_E6/suma.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/TADS/Lista/lista.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/TADS/Lista/lista.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/TADS/Lista/lista.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/TADS/Lista/lista.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/TADS/Lista/listadoble.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/TADS/Lista/listadoble.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/TADS/Pila/Cola/cola.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/TADS/Pila/Cola/cola.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/TADS/Pila/Cola/cola.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/TADS/Pila/Cola/cola.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/TADS/Pila/PIla.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/TADS/Pila/PIla.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/TADS/Pila/Pila.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/TADS/Pila/Pila.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Vector Dinámico/P1_v3/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Vector Dinámico/P1_v3/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion-II/Vector Dinámico/P1_v3/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion-II/Vector Dinámico/P1_v3/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 1 Boletбn 4/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 1 Boletбn 4/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 2 Boletбn 4/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 2 Boletбn 4/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 3 Boletбn 4/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 3 Boletбn 4/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 4 Boletбn 4/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 4 Boletбn 4/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 5 Boletбn 4/Balon de oro.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 5 Boletбn 4/Balon de oro.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 5 Boletбn 4/Frases Cuдado Cena Navideдa" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 5 Boletбn 4/Frases Cuдado Cena Navideдa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 5 Boletбn 4/Receta.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 5 Boletбn 4/Receta.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 5 Boletбn 4/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 5 Boletбn 4/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 6 Boletбn 4/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 4 Adrian Quiroga Linares/Ejercicio 6 Boletбn 4/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/Prueba1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/Prueba1/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/Prueba2/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/Prueba2/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/Prueba3/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/Prueba3/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/Prueba4/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/Prueba4/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/meteo/meteo.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/meteo/meteo.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/meteo/meteo.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Programación-I/Boletin 5 Adriаn Quiroga Linares/meteo/meteo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Boletin 3/Contador macabro ej 4-5.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Boletin 3/Contador macabro ej 4-5.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Boletin 3/Maquina expendedora ej1.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Boletin 3/Maquina expendedora ej1.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Boletin 3/Motor ej 2.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Boletin 3/Motor ej 2.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Boletin 3/Secuencia.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Boletin 3/Secuencia.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/Comparador C1 C2 SM Ej 5.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/Comparador C1 C2 SM Ej 5.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/Comparador C1 EJ 4.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/Comparador C1 EJ 4.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/El mallor meirdon de ejercicio que hice en mi vida. Ej 6.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/El mallor meirdon de ejercicio que hice en mi vida. Ej 6.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/Puertas Ej 7.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/Puertas Ej 7.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/Sumador BCD Ej 1-2.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/Sumador BCD Ej 1-2.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/SumadorRestadorC1C2 Ej 3.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Boletín 2/SumadorRestadorC1C2 Ej 3.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Comparador SM C1.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Comparador SM C1.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2010/Ejercicio 2 2010 comaprador c2.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2010/Ejercicio 2 2010 comaprador c2.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2010/Ejercicio 5 2010 mealy.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2010/Ejercicio 5 2010 mealy.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2010/Ejercicio 7 2010 moore.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2010/Ejercicio 7 2010 moore.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2013/Ejercicio 2 2013 mealy jodidisimo.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2013/Ejercicio 2 2013 mealy jodidisimo.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2013/Ejericicio 1 2013 contador.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2013/Ejericicio 1 2013 contador.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2019/Ejercicio 2 2019 mealy.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2019/Ejercicio 2 2019 mealy.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2019/Ejercicio 3 2019 T a JK.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2019/Ejercicio 3 2019 T a JK.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2019/Ejercicio 4 2019 contador .circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2019/Ejercicio 4 2019 contador .circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2022/Ejercicio 2 2022 mealy.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2022/Ejercicio 2 2022 mealy.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2022/Ejercicio 3 2022 contador.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2022/Ejercicio 3 2022 contador.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2022/Ejercicio 4 2022 comparador con reloj.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2022/Ejercicio 4 2022 comparador con reloj.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2023/Ejercicio 2 2023 mealy.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2023/Ejercicio 2 2023 mealy.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2023/Ejercicio 3 2023 contador.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2023/Ejercicio 3 2023 contador.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2023/Ejericio  5 2023 comparador c1.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2023/Ejericio  5 2023 comparador c1.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2024/Ejercicio 3 2024 comparador.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2024/Ejercicio 3 2024 comparador.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2024/Ejercicio 4 2024 contador.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2024/Ejercicio 4 2024 contador.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2024/Ejericio 2 2024 mealy.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/Examenes/Examen 2024/Ejericio 2 2024 mealy.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/UDC/Comparador c2.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/UDC/Comparador c2.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/UDC/Comparadro sumador.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/UDC/Comparadro sumador.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/UDC/Divisor restador.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/UDC/Divisor restador.circ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sistemas-Digitales/UDC/Registro comparador.circ" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistemas-Digitales/UDC/Registro comparador.circ" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="34dwvt7v5Rf1ZavBdYwDbzCeXaF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/adrianql/Escritorio/1ºCarrera/Discreta&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e31ad638-78b1-423b-a3ac-ba42a1c94861" name="Changes" comment="" />
+      <created>1761556991751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761556991751</updated>
+      <workItem from="1761556993071" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
