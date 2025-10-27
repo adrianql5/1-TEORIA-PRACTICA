@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 double absoluto(double n) {
     //return (n < 0) ? n : n;
     return(n<0) ? -n : n;

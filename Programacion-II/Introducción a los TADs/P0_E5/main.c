@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 //a)&a[0]: 0x7fffffffd8a0. &a[1]: 0x7fffffffd8a4 &a[0]: 0x7fffffffd8a8 &a[3]: 0x7fffffffd8ac
 //b)La mayor es &a[3]: 0x7fffffffd8ac y la menor es  La diferencia es de 4 bytes, debido a que cada posicion de un array va incrementando su valor en 4 bytes. AL ser posiciones consecutivas de un array se puede apreciar fácilmente gracias al panel de Watch.
 

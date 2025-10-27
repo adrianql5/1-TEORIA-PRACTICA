@@ -1,3 +1,5 @@
+Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 Datos de quicksort:
 Tamaño del vector:2	Inicio:1319	Final:1321	Tiempo de ordenación:0.000002
 Tamaño del vector:4	Inicio:1354	Final:1355	Tiempo de ordenación:0.000001

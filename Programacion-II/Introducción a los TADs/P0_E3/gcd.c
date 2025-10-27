@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 int gcd(int n1, int n2) {
     
     if (n1<0 || n2<0){

@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 #include "include/matriz.h"
 
 matriz* producto(matriz *M1, matriz *M2) {

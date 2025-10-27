@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 //Autor: Adrián Quiroga Linares
 // Data: 1 de decemrbro de 2023
 //Versión:1

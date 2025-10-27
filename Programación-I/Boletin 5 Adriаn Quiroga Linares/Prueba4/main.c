@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 #include "meteo.h"
 #include <stdio.h>
 //HAGO ESTA PRUEBA PARA COMPORBAR QUE HA LEIDO TODO CORRECTAMENTE, SOLO LE PASO DOS ARCHIVOS PORQUE DE PASARLE MAS ESTARIA ESCRIBIENDO RESULTADOS POR PANTALLA DEMSAIDO TIEMPO

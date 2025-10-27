@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 #include <stdlib.h>
 #include <stdbool.h>
 #include <stdio.h>
